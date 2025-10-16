@@ -2,13 +2,11 @@
 
 ***
 
-# 🌍 Wanderlust – A Full-Stack Travel Listing Platform
+# 🌍 Wanderlust – A Full-Stack Travel Listing Platfor
 
 Wanderlust is a full-featured travel and accommodation web platform built using the MERN (MongoDB, Express, Node.js) stack and EJS templating. It enables users to discover, create, review, and manage travel listings with seamless authentication, image hosting, and cloud integration.
 
 ***
-
-![Wanderlust Explore Listings Screenshot](
 
 ## 🚀 Features
 
